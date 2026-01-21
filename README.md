@@ -29,7 +29,7 @@ in fully remote, cross-functional environments.
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science** (In Progress)  
+**Bachelor of Science in Computer Science (Engineering Degree – In Progress)**  
 Universidad Espíritu Santo (UEES)
 
 **Higher Technologist in Software Development (TICs)**  
